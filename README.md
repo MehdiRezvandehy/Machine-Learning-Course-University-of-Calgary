@@ -33,3 +33,5 @@ The lectures are as below:
 [Lecture 11: Deep Neural Network (DNN)](https://github.com/MehdiRezvandehy/Machine-Learning-Course-University-of-Calgary/blob/master/Class11_Deep%20Neural%20Network%20(Deep%20Learning).ipynb)
 
 [Lecture 12: Unsupervised Learning](https://github.com/MehdiRezvandehy/Machine-Learning-Course-University-of-Calgary/blob/master/Class12_Unsupervised_Learning.ipynb)
+
+[Lecture 13: Introduction to Git](https://github.com/MehdiRezvandehy/Machine-Learning-Course-University-of-Calgary/blob/master/Class13_Introduction_to_Git.ipynb)
