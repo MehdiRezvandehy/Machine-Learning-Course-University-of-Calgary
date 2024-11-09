@@ -35,3 +35,7 @@ The lectures are as below:
 [Lecture 12: Unsupervised Learning](https://github.com/MehdiRezvandehy/Machine-Learning-Course-University-of-Calgary/blob/master/Class12_Unsupervised_Learning.ipynb)
 
 [Lecture 13: Introduction to Git](https://github.com/MehdiRezvandehy/Machine-Learning-Course-University-of-Calgary/blob/master/Class13_Introduction_to_Git.ipynb)
+
+[Lecture 13: Developing Python Packages](https://github.com/MehdiRezvandehy/Machine-Learning-Course-University-of-Calgary/blob/master/Class14_Developing_Python_Packages.ipynb)
+
+
